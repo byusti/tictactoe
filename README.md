@@ -2,7 +2,9 @@
 
 [![Package Version](https://img.shields.io/hexpm/v/tictactoe)](https://hex.pm/packages/tictactoe)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/tictactoe/)
-
+\\
+This tictactoe lib is intended as a simple example of how bitboards work.
+\\
 ```sh
 gleam add tictactoe
 ```
